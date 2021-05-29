@@ -7,7 +7,6 @@
 
 ## ✍ Interest
 - __Natural Language Processing__
-- Text Emotion Classification
 
 
 ## 💻 Languages
