@@ -10,6 +10,8 @@ I'm currently internship at [TUNiB](http://www.tunib.ai/). and I was Researcher 
 My major is Electronic and Communication Engineering and Minor is Data Science. 
 
 
+<br>
+
 ## ✍ Interest & Studying
 - __Natural Language Processing__
 - __Deep learning__
