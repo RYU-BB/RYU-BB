@@ -16,3 +16,4 @@ My major is Electronic and Communication Engineering and Minor is Data Science.
 - __Natural Language Processing__
 - __Deep learning__
 - __Web crawling__
+- __Data Engineering__
